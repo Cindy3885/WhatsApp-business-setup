@@ -1,8 +1,8 @@
-WhatsApp Business Setup & Customer Communication Management
+# WhatsApp Business Setup & Customer Communication Management
 
-Project 01 | Business Operations & Digital Solutions
+**Project 01 | Business Operations & Digital Solutions**
 
-Project Overview
+**Project Overview**
 
 This project demonstrates the setup and configuration of a WhatsApp Business profile to create a more professional, organised and accessible customer communication channel.
 
@@ -10,7 +10,7 @@ The objective was to establish a practical business communication system that ma
 
 This was a self-initiated project using my own business profile as a practical implementation and learning exercise.
 
-Business Objective
+**Business Objective**
 
 Businesses often rely on WhatsApp to communicate with customers, but without a structured setup, enquiries, follow-ups and customer communication can become difficult to manage.
 
@@ -24,7 +24,7 @@ The aim was to use the available WhatsApp Business features to:
 - Reduce repetitive manual responses.
 - Create a more structured customer enquiry process.
 
-Tools & Platform
+**Tools & Platform**
 
 - WhatsApp Business
 - WhatsApp Business Catalogue
@@ -33,25 +33,25 @@ Tools & Platform
 - Automated Greeting and Away Messages
 - WhatsApp Short Links
 
-Implementation
+# Implementation
 
-1. Business Profile Setup
+**1. Business Profile Setup**
 
 Configured a professional business profile with business information, description, contact details, website and operating information.
 
-2. Service Catalogue
+**2. Service Catalogue**
 
 Created a service catalogue to present business administration, virtual assistance, website support, e-commerce, digital presence, workflow improvement, AI and automation support, research and basic OHS documentation services.
 
-3. Customer Communication
+**3. Customer Communication**
 
 Configured greeting and away messages to provide consistent communication when customers first make contact or when the business is unavailable.
 
-4. Quick Replies
+**4. Quick Replies**
 
 Created reusable message templates for common enquiries, service information, quotations, remote support, follow-ups and customer appreciation.
 
-5. Customer & Contact Organisation
+**5. Customer & Contact Organisation**
 
 Created custom chat lists to organise business conversations and contacts into useful categories, including:
 
@@ -69,11 +69,11 @@ Created custom chat lists to organise business conversations and contacts into u
 - Suppliers & Partners
 - International Contacts
 
-6. Direct Enquiry Access
+**6. Direct Enquiry Access**
 
 Set up a WhatsApp short link to make it easier for potential customers to start a conversation directly from the business website and other digital platforms.
 
-Business Benefits
+# Business Benefits
 
 The completed setup provides a more structured approach to:
 
@@ -84,7 +84,7 @@ The completed setup provides a more structured approach to:
 - Managing potential customer enquiries and follow-ups.
 - Supporting day-to-day business communication.
 
-Skills Demonstrated
+# Skills Demonstrated
 
 - Business administration and organisation
 - Customer communication management
@@ -95,7 +95,7 @@ Skills Demonstrated
 - Practical problem-solving
 - Research and implementation of digital tools
 
-Project Status
+# Project Status
 
 Completed – Initial Implementation
 
