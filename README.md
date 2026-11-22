@@ -104,3 +104,7 @@ This project forms part of an ongoing portfolio demonstrating practical business
 ---
 
 This is an independent portfolio project based on my own business setup. It demonstrates practical implementation of existing platform features, rather than the development of custom software.
+
+## Project Screenshots
+
+The following screenshots demonstrate the basic WhatsApp Business configuration and features implemented during this project.
