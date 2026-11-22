@@ -14,7 +14,8 @@ This was a self-initiated project using my own business profile as a practical i
 
 Explore the live WhatsApp Business profile and service catalogue or start a conversation directly. 
 
-[View WhatsApp Business Profile]
+## View WhatsApp Business Profile
+
 (https://wa.me/message/EH5EIYA6LOKPK1)
 
 **Business Objective**
