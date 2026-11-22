@@ -10,6 +10,13 @@ The objective was to establish a practical business communication system that ma
 
 This was a self-initiated project using my own business profile as a practical implementation and learning exercise.
 
+## Live Demonstration
+
+Explore the live WhatsApp Business profile and service catalogue or start a conversation directly. 
+
+[View WhatsApp Business Profile]
+(https://wa.me/message/EH5EIYA6LOKPK1)
+
 **Business Objective**
 
 Businesses often rely on WhatsApp to communicate with customers, but without a structured setup, enquiries, follow-ups and customer communication can become difficult to manage.
@@ -107,4 +114,72 @@ This is an independent portfolio project based on my own business setup. It demo
 
 ## Project Screenshots
 
-The following screenshots demonstrate the basic WhatsApp Business configuration and features implemented during this project.
+The following screenshots demonstrate the configuration and implementation of the WhatsApp Business profile and its customer communication features.
+
+**1.Business Profile**
+
+The business profile was configured to establish a professional online presence, with business information, contact details and operation information.
+
+![Business Profile 1](01_business_profile_1.jpg)
+
+![Business Profile 2](01_business_profile_2.jpg)
+
+
+**2. Service Catalogue**
+
+A service catalogue was created to present the available services and make it easier for potential customers to understand what the business offers.
+
+![Service Catalogue](02_service_catalogue.jpg)
+
+
+**3. Quick Replies**
+
+Reusable message templates were created to improve response consistency and reduce repetitive typing when handling common customer enquiries.
+
+![Quick Replies 1](04_quick_replies_1.jpg)
+
+![Quick Replies 2](04_quick_replies_2.jpg)
+
+![Quick Replies 3](04_quick_replies_3.jpg)
+
+![Quick Replies 4](04_quick_replies_4.jpg)
+
+![Quick Replies 5](04_quick_replies_5.jpg)
+
+
+**4. Customer Lists**
+
+Custom lists were created to organise business enquiries, potential clients, active customers, follow-ups, recruiters, leads and other important contacts.
+
+![Customer Lists 1](05_customer_lists_1.jpg)
+
+![Customer Lists 2](05_customer_lists_2.jpg)
+
+
+**5. WhatsApp Business Short Link**
+
+A direct WhatsApp link was configured to make it easier for potential customers to initiate convervesations.
+
+![WhatsApp Business Short Link](06_short_link.jpg)
+
+
+**6. Greeting Message**
+
+A customised greeting message was configured to welcome new enquiries and introduce the business services.
+
+![Greeting Message](07_greeting_message.jpg)
+
+
+**7. Away Message**
+
+An automated away message was configured to acknowledge incoming messages when the business is unavailable.
+
+![Away Message](08_away_message.jpg)
+
+
+**8. Reserved Username**
+
+A business username was reserved as part of establishing a consistent digital business identity. 
+
+![Reserved Username](09_reserved_username.jpg)
+
